@@ -1,0 +1,11 @@
+table{
+	width: 400px;
+	height: 100px;
+}
+table tr:nth-child(1){
+	background-color: #d8bdbd;
+	text-align: center;
+}
+table tr:nth-child(1)~tr td{
+	padding-left: 15px;
+}

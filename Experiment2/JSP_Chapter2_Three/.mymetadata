@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JSP_Chapter2_Three"
+  id="myeclipse.1536724335213"
+  context-root="/JSP_Chapter2_Three"
+  j2ee-spec="5.0"
+  archive="JSP_Chapter2_Three.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
