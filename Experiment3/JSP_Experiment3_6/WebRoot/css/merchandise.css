@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container header{
+	background-color: #B4A8AC;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.container section .merchandise{
+	padding: 40px;
+}
+.container section .merchandise .merchandise-content .content-title{
+	text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.container section .merchandise .merchandise-content .content-image{
+	text-align: center;
+}
+.container section .merchandise .merchandise-content .content-image img{
+	width: 20%;
+}
+.container section .merchandise .merchandise-content .content-name{
+	padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+.container section .merchandise .merchandise-content .content-unitPrice{
+	text-align: center;
+    font-weight: bold;
+}
+.container section .merchandise .merchandise-option a{
+	text-decoration: none;
+	font-size: 0.3em;
+    font-weight: bold;
+    color: black;
+}
+.container section .merchandise .merchandise-option a:hover{
+	color: red;
+}
+.container footer{
+	background-color: #C8BFB0;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}

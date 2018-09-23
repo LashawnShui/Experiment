@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="JSP_Chapter4_Four"
+  id="myeclipse.1537528040025"
+  context-root="/JSP_Chapter4_Four"
+  j2ee-spec="5.0"
+  archive="JSP_Chapter4_Four.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

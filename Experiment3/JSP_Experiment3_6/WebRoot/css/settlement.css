@@ -1,0 +1,82 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container header{
+	background-color: #B4A8AC;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.container section .shoppingCar{
+	padding: 40px;
+}
+.container section .shoppingCar .shoppingCar-content{
+	border: 1px dashed green;
+    padding: 10px 20px;
+}
+.container section .shoppingCar .shoppingCar-content .content-title{
+	display: flex;
+    background-color: #BEB8C2;
+    padding: 10px;
+    color: #365647;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+.container section .shoppingCar .shoppingCar-content .content-title .title-merchandise{
+	flex: 7;
+	text-align: center;
+}
+.container section .shoppingCar .shoppingCar-content .content-title .title-unitPrice{
+	flex: 1;
+}
+.container section .shoppingCar .shoppingCar-content .content-title .title-number{
+	flex: 1;
+}
+.container section .shoppingCar .shoppingCar-content .content-title .title-subtotal{
+	flex: 1;
+}
+.container section .shoppingCar .shoppingCar-content .content-item{
+	display: flex;
+    background-color: #66ffcc;
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 0.6em;
+    font-weight: bold;
+}
+.container section .shoppingCar .shoppingCar-content .content-item .item-image{
+	flex: 1;
+}
+.container section .shoppingCar .shoppingCar-content .content-item .item-image img{
+	width: 80%;
+}
+.container section .shoppingCar .shoppingCar-content .content-item .item-name{
+	flex: 6;
+}
+.container section .shoppingCar .shoppingCar-content .content-item .item-unitPrice{
+	flex: 1;
+}
+.container section .shoppingCar .shoppingCar-content .content-item .item-number{
+	flex: 1;
+}
+.container section .shoppingCar .shoppingCar-content .content-item .item-subtotal{
+	flex: 1;
+}
+.container section .shoppingCar .shoppingCar-content .content-information{
+	display: flex;
+    padding: 10px;
+    justify-content: flex-end;
+    color: #E6594F;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.container section .shoppingCar .shoppingCar-content .content-information div{
+	margin: 0px 10px;
+}
+.container footer{
+	background-color: #C8BFB0;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
