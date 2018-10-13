@@ -1,0 +1,48 @@
+@charset "UTF-8";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container .container-form{
+	width: 90%;
+	margin: 0px auto;
+}
+.container .container-form .form-content .content-title{
+	display: flex;
+	line-height: 30px;
+	background-color: #0090D3;
+}
+.container .container-form .form-content .content-title>div{
+	flex: 1;
+	width:1%;
+	margin: 1px;
+	border: 1px #fff solid;
+	padding: 10px 0px;
+	text-align: center;
+	color: #fff;
+}
+.container .container-form .form-content .content-row{
+	display: flex;
+	line-height: 30px;
+	background-color: #EEE;
+}
+.container .container-form .form-content .content-row>div{
+	flex: 1;
+	width:1%;
+	border: 2px #eee solid;
+	padding: 10px 0px;
+	text-align: center;
+	overflow: hidden;
+}
+.container .container-form .form-content .content-row:nth-child(even){
+	background-color: #fff;
+	color: #000;
+}
+.container .container-form .form-content .content-row:nth-child(odd){
+	background-color: #99CCCC;
+	color: #fff;
+}
+.container .container-form .form-content .content-row:hover{
+	background-color: black;
+	color: white;
+}
